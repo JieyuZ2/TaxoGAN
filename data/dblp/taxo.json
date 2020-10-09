@@ -1,0 +1,368 @@
+{
+  "parent2children":{
+    "information retrieval":[
+      "document representation",
+      "information retrieval query processing",
+      "users and interactive retrieval",
+      "retrieval models and ranking",
+      "retrieval tasks and goals",
+      "evaluation of retrieval results",
+      "search engine architectures and scalability",
+      "specialized information retrieval"
+    ],
+    "specialized information retrieval":[
+      "structure and multilingual text search",
+      "multimedia and multimodal retrieval",
+      "environment-specific retrieval"
+    ],
+    "environment-specific retrieval":[
+      "enterprise search",
+      "desktop search",
+      "web and social media search"
+    ],
+    "structure and multilingual text search":[
+      "structured text search",
+      "mathematics retrieval",
+      "chemical and biochemical retrieval",
+      "multilingual and cross-lingual retrieval"
+    ],
+    "search engine architectures and scalability":[
+      "search engine indexing",
+      "search index compression",
+      "distributed retrieval",
+      "peer-to-peer retrieval",
+      "retrieval on mobile devices",
+      "adversarial retrieval",
+      "link and co-citation analysis",
+      "searching with auxiliary databases"
+    ],
+    "evaluation of retrieval results":[
+      "test collections",
+      "relevance assessment",
+      "retrieval effectiveness",
+      "retrieval efficiency",
+      "presentation of retrieval results"
+    ],
+    "retrieval tasks and goals":[
+      "question answering",
+      "document filtering",
+      "recommender system",
+      "information extracton",
+      "sentiment analysis",
+      "expert search",
+      "near-duplicat and plagiarism detection",
+      "clustering and classification",
+      "summarization",
+      "business inteligence"
+    ],
+    "retrieval models and ranking":[
+      "rank aggregation",
+      "probabilistic retrieval models",
+      "language models",
+      "similarity measures",
+      "learning to rank",
+      "combination, fusion and federated search",
+      "information retrieval diversity",
+      "top-k retrieval in databases",
+      "novelty in information retrieval"
+    ],
+    "users and interactive retrieval":[
+      "personalization",
+      "task models",
+      "search interfaces",
+      "collaborative search"
+    ],
+    "information retrieval query processing":[
+      "query representation",
+      "query intent",
+      "query log analysis",
+      "query suggestion",
+      "query reformulation"
+    ],
+    "document representation":[
+      "document structure",
+      "document topic models",
+      "content analysis and feature selection",
+      "data encoding and canonicalization",
+      "document collection models",
+      "ontologies",
+      "dictionaries",
+      "thesauri"
+    ],
+    "information systems applications":[
+      "enterprise information systems",
+      "collaborative and social computing systems and tools",
+      "spatial-temporal systems",
+      "decision support systems",
+      "mobile information processing systems",
+      "process control systems",
+      "multimedia information systems",
+      "data mining",
+      "digital libraries and archives",
+      "computational advertising",
+      "computing platforms"
+    ],
+    "data mining":[
+      "data cleaning",
+      "collaborative filtering",
+      "association rules",
+      "clustering",
+      "nearest-neighbor search",
+      "data stream mining"
+    ],
+    "multimedia information systems":[
+      "multimedia databases",
+      "multimedia streaming",
+      "multimedia content creation",
+      "massively multiplayer online games"
+    ],
+    "decision support systems":[
+      "data warehouses",
+      "expert systems",
+      "data analytics",
+      "online analytical processing"
+    ],
+    "spatial-temporal systems":[
+      "location based services",
+      "geographic information systems",
+      "sensor networks",
+      "data streaming",
+      "global positioning systems"
+    ],
+    "collaborative and social computing systems and tools":[
+      "blogs",
+      "wikis",
+      "reputation systems",
+      "open source software",
+      "social networking sites",
+      "social tagging systems",
+      "synchronous editors",
+      "asynchronous editors"
+    ],
+    "enterprise information systems":[
+      "intranets",
+      "extranets",
+      "enterprise resource planning",
+      "enterprise applications",
+      "data centers"
+    ],
+    "artificial intelligence":[
+      "natural language processing",
+      "knowledge representation and reasoning",
+      "planning and scheduling",
+      "search methodologies",
+      "control methods",
+      "philosophical\/theoretical foundations of artificial intelligence",
+      "distributed artificial intelligence",
+      "computer vision"
+    ],
+    "computer vision":[
+      "computer vision tasks",
+      "image and video acquisition",
+      "computer vision representations",
+      "computer vision problems"
+    ],
+    "computer vision problems":[
+      "interest point and salient region detections",
+      "image segmentation",
+      "video segmentation",
+      "shape inference",
+      "object detection",
+      "object recognition",
+      "object identification",
+      "tracking",
+      "reconstruction",
+      "matching"
+    ],
+    "computer vision representations":[
+      "image representations",
+      "shape representations",
+      "appearance and texture representations",
+      "hierarchical representations"
+    ],
+    "image and video acquisition":[
+      "camera calibration",
+      "epipolar geometry",
+      "computational photography",
+      "hyperspectral imaging",
+      "motion capture",
+      "3d imaging",
+      "active vision"
+    ],
+    "computer vision tasks":[
+      "biometrics",
+      "scene understanding",
+      "activity recognition and understanding",
+      "video summarization",
+      "visual content-based indexing and retrieval",
+      "visual inspection",
+      "vision for robotics",
+      "scene anomaly detection"
+    ],
+    "distributed artificial intelligence":[
+      "multi-agent systems",
+      "intelligent agents",
+      "mobile agents",
+      "cooperation and coordination"
+    ],
+    "philosophical\/theoretical foundations of artificial intelligence":[
+      "cognitive science",
+      "theory of mind"
+    ],
+    "control methods":[
+      "computational control theory",
+      "motion path planning"
+    ],
+    "search methodologies":[
+      "heuristic function construction",
+      "discrete space search",
+      "continuous space search",
+      "randomized search",
+      "game tree search",
+      "abstraction and micro-operators",
+      "search with partial observations"
+    ],
+    "planning and scheduling":[
+      "planning for deterministic actions",
+      "planning under uncertainty",
+      "multi-agent planning",
+      "planning with abstraction and generalization",
+      "robotic planning"
+    ],
+    "robotic planning":[
+      "evolutionary robotics"
+    ],
+    "knowledge representation and reasoning":[
+      "description logics",
+      "semantic networks",
+      "nonmonotonic, default reasoning and belief revision",
+      "probabilistic reasoning",
+      "vagueness and fuzzy logic",
+      "causal reasoning and diagnostics",
+      "temporal reasoning",
+      "cognitive robotics",
+      "ontology engineering",
+      "logic programming and answer set programming",
+      "spatial and physical reasoning",
+      "reasoning about belief and knowledge"
+    ],
+    "natural language processing":[
+      "information extraction",
+      "machine translation",
+      "discourse, dialogue and pragmatics",
+      "natural language generation",
+      "speech recognition",
+      "lexical semantics",
+      "phonology \/ morphology",
+      "language resources"
+    ],
+    "machine learning":[
+      "learning paradigms",
+      "learning settings",
+      "machine learning approaches",
+      "machine learning algorithms"
+    ],
+    "machine learning approaches":[
+      "classification and regression trees",
+      "kernel methods",
+      "neural networks",
+      "logical and relational learning",
+      "learning in probabilistic graphical models",
+      "learning linear models",
+      "factorization methods",
+      "rule learning",
+      "instance-based learning",
+      "markov decision processes",
+      "partially-observable markov decision processes",
+      "stochastic games",
+      "learning latent representations",
+      "bio-inspired approaches"
+    ],
+    "bio-inspired approaches":[
+      "artificial life",
+      "evolvable hardware",
+      "genetic algorithms",
+      "genetic programming",
+      "evolutionary robotics",
+      "generative and developmental approaches"
+    ],
+    "learning latent representations":[
+      "deep belief networks"
+    ],
+    "factorization methods":[
+      "non-negative matrix factorization",
+      "factor analysis",
+      "principal component analysis",
+      "canonical correlation analysis",
+      "latent dirichlet allocation"
+    ],
+    "learning linear models":[
+      "perceptron algorithm"
+    ],
+    "learning in probabilistic graphical models":[
+      "maximum likelihood modeling",
+      "maximum entropy modeling",
+      "maximum a posteriori modeling",
+      "mixture models",
+      "latent variable models",
+      "bayesian network models"
+    ],
+    "logical and relational learning":[
+      "inductive logic learning",
+      "statistical relational learning"
+    ],
+    "kernel methods":[
+      "support vector machines",
+      "gaussian processes"
+    ],
+    "learning settings":[
+      "batch learning",
+      "online learning settings",
+      "learning from demonstrations",
+      "learning from critiques",
+      "learning from implicit feedback",
+      "active learning settings",
+      "semi-supervised learning settings"
+    ],
+    "learning paradigms":[
+      "supervised learning",
+      "unsupervised learning",
+      "reinforcement learning",
+      "multi-task learning"
+    ],
+    "multi-task learning":[
+      "transfer learning",
+      "lifelong machine learning",
+      "learning under covariate shift"
+    ],
+    "reinforcement learning":[
+      "sequential decision making",
+      "inverse reinforcement learning",
+      "apprenticeship learning",
+      "multi-agent reinforcement learning",
+      "adversarial learning"
+    ],
+    "unsupervised learning":[
+      "cluster analysis",
+      "anomaly detection",
+      "mixture modeling",
+      "topic modeling",
+      "source separation",
+      "motif discovery",
+      "dimensionality reduction and manifold learning"
+    ],
+    "supervised learning":[
+      "ranking",
+      "supervised learning by classification",
+      "supervised learning by regression",
+      "structured outputs",
+      "cost-sensitive learning"
+    ],
+    "root":[
+      "machine learning",
+      "artificial intelligence",
+      "information systems applications",
+      "information retrieval"
+    ]
+  }
+}
