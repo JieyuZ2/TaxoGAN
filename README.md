@@ -16,3 +16,6 @@ Contact: Jieyu Zhang (jieyuz2@illinois.edu), Carl Yang (yangji9181@gmail.com)
 ## Prerequisites
 - Python3
 - Pytorch 1.4
+
+## Training 
+check out `note.txt`.
