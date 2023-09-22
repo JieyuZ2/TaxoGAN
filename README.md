@@ -19,5 +19,5 @@ Contact: Jieyu Zhang (jieyuz2@illinois.edu), Carl Yang (yangji9181@gmail.com)
 
 ## Training 
 ```
-python3 src/main.py --gpu 3 --dataset dblp --model TaxoGAN_V3 --task taxonomy --early_stop 0 --transform 1
+python3 src/main.py --gpu 0 --dataset dblp --model TaxoGAN_V3 --task taxonomy --early_stop 0 --transform 1
 ```
